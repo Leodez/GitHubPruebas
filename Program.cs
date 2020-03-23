@@ -10,8 +10,7 @@ namespace GitHubPruebas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Dime tu nombre:");
-            string nombre = Console.ReadLine();
+            Console.WriteLine("Hola");
         }
     }
 }
