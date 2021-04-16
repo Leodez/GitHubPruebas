@@ -12,5 +12,10 @@ namespace GitHubPruebas
         {
             Console.WriteLine($"Hola {nombre}!");
         }
+
+        public static void Presentar()
+        {
+            Console.WriteLine("Hola, tengo un método Saludar. ¿Quieres probarlo?");
+        }
     }
 }
